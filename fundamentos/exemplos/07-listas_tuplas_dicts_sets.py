@@ -1,0 +1,3 @@
+# Exemplo: Listas, Tuplas, Dicionários e Sets
+
+# ...adicione exemplos dessas estruturas aqui...

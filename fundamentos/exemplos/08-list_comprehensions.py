@@ -1,0 +1,3 @@
+# Exemplo: List Comprehensions
+
+# ...adicione exemplos de list comprehensions aqui...

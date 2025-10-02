@@ -1,0 +1,3 @@
+# Exercício: Manipulador de Arquivos
+
+# ...implemente manipulação de arquivos aqui...

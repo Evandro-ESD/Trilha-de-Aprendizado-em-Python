@@ -1,0 +1,3 @@
+# Exemplo: Tratamento de Erros
+
+# ...adicione exemplos de tratamento de erros aqui...

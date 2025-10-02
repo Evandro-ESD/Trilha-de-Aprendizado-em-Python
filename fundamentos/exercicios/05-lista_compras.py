@@ -1,0 +1,3 @@
+# Exercício: Lista de Compras
+
+# ...implemente uma lista de compras aqui...

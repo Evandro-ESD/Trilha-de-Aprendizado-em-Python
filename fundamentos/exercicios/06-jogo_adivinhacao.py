@@ -1,0 +1,3 @@
+# Exercício: Jogo de Adivinhação
+
+# ...implemente um jogo de adivinhação aqui...

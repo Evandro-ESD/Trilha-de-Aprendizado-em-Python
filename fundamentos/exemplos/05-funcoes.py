@@ -1,0 +1,3 @@
+# Exemplo: Funções
+
+# ...adicione exemplos de funções aqui...
