@@ -68,12 +68,12 @@ O foco é construir conhecimento consistente, praticar problemas do dia a dia e 
 
 ## 🌱 Perspectiva de Carreira
 
-Seguindo esta trilha, estarei:
+Seguindo esta trilha, pretendo:
 
-- Consolidando **conhecimento básico e intermediário** em Python.
-- Dominando **estrutura de dados e algoritmos**, essenciais para qualquer carreira em tecnologia.
-- Criando projetos práticos e um **portfólio sólido no GitHub**.
-- Preparando o caminho para aplicações avançadas em **IA, análise de dados e automação**.
+- Consolidar **conhecimento básico e intermediário** em Python.
+- Dominar **estrutura de dados e algoritmos**, essenciais para qualquer carreira em tecnologia.
+- Criar projetos práticos e um **portfólio sólido no GitHub**.
+- Preparar o caminho para aplicações avançadas em **IA, análise de dados e automação**.
 
 ## 📂 Estrutura do Repositório
 
@@ -107,7 +107,7 @@ python-trilha-aprendizado/
 
 ## 💡 Sugestão de prática
 
-- Exercícios em plataformas como [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-python) e [Exercism](https://exercism.org/tracks/python).
+- Exercícios em plataformas como [w3schools](https://www.w3schools.com/python/python_exercises.asp),[HackerRank](https://www.hackerrank.com) e [Exercism](https://exercism.org/tracks/python).
 - Pequenos scripts: calculadoras, conversores, manipuladores de arquivos, agendas e jogos simples.
 - Projetos que consolidem conhecimento em POO, manipulação de dados e bibliotecas.
 
