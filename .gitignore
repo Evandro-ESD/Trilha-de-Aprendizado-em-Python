@@ -1,2 +1,7 @@
 # Mapa de estudos
 Mapa estudos PYTHON.docx
+
+# pasta do ambiente virtual
+.venv/
+__pycache__/
+*.pyc
