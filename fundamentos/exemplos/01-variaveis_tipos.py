@@ -28,24 +28,29 @@
 # 14: None -> NoneType -> Nenhum Tipo
 
 dataTypes = [
-    {"indice": "0","data_type": "Hello World"},
-    {"indice": "1","data_type": 20},
-    {"indice": "2","data_type": 20.5},
-    {"indice": "3","data_type": 1j},
-    {"indice": "4","data_type": ["apple", "banana", "cherry"]},
-    {"indice": "5","data_type": ("apple", "banana", "cherry")},
-    {"indice": "6","data_type": range(6)},
-    {"indice": "7","data_type": {"name": "John", "age": 36}},
-    {"indice": "8","data_type": {"apple", "banana", "cherry"}},
-    {"indice": "9","data_type": frozenset({"apple", "banana", "cherry"})},
-    {"indice": "10","data_type": True},
-    {"indice": "11","data_type": b"Hello"},
-    {"indice": "12","data_type": bytearray(5)},
-    {"indice": "13","data_type": memoryview(bytes(5))},
-    {"indice": "14","data_type": None}
+    {"indice": "0", "data_type": "Hello World"},
+    {"indice": "1", "data_type": 20},
+    {"indice": "2", "data_type": 20.5},
+    {"indice": "3", "data_type": 1j},
+    {"indice": "4", "data_type": ["apple", "banana", "cherry"]},
+    {"indice": "5", "data_type": ("apple", "banana", "cherry")},
+    {"indice": "6", "data_type": range(6)},
+    {"indice": "7", "data_type": {"name": "John", "age": 36}},
+    {"indice": "8", "data_type": {"apple", "banana", "cherry"}},
+    {"indice": "9", "data_type": frozenset({"apple", "banana", "cherry"})},
+    {"indice": "10", "data_type": True},
+    {"indice": "11", "data_type": b"Hello"},
+    {"indice": "12", "data_type": bytearray(5)},
+    {"indice": "13", "data_type": memoryview(bytes(5))},
+    {"indice": "14", "data_type": None},
 ]
+
+
 def mostrar_tipos(dataTypes):
-   for idx, data in enumerate(dataTypes):
-      print(f"Os dados da posição {idx} são do tipo: {type(data['data_type'])}")
+    for idx, data in enumerate(dataTypes):
+        print(
+            f"Os dados da posição {idx} \n|> {data['data_type']} | \n|> são do tipo: {type(data['data_type'])}\n"
+        )
+
 
 mostrar_tipos(dataTypes)
