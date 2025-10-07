@@ -1,3 +1,1 @@
 # Exemplo: Loops (for, while)
-
-# ...adicione exemplos de loops aqui...
